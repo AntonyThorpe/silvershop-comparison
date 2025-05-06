@@ -4,7 +4,7 @@
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "ecommerce", "shop", "silvershop", "comparison", "compare", "products"],
     "require" : {
-        "silvershop/core": "^4"
+        "silvershop/core": "dev-main"
     },
     "authors": [{
       "name": "SilverShop Contributors",
